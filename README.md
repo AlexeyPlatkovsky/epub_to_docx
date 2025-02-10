@@ -32,8 +32,8 @@ To run the converter, follow these steps:
 
 ### 1.Prepare Your Files:
 
-Create a folder named input_files in the root of your project directory and place all your EPUB files there.
-Ensure there is a folder named results (or let the script create it automatically). This folder will be used to store the converted DOCX files.
+Create a folder named `input_files` in the root of your project directory and place all your EPUB files there.
+Ensure there is a folder named `results` (or let the script create it automatically). This folder will be used to store the converted DOCX files.
 Run the Script:
 
 ### 2. Run script in terminal
