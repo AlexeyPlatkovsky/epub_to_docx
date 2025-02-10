@@ -46,9 +46,9 @@ python converter.py
 The script will iterate through each EPUB file in the `input_files` folder. 
 <br>For every file that does not already have a corresponding DOCX file in the results folder, it will:
 <br> 1. Read and parse the EPUB file.
-<br> 2.Extract the HTML content from each document item.
-<br> 3.Convert the HTML (with formatting preserved) into DOCX format.
-<br> 4.Save the output DOCX file in the results folder using the same base filename as the original EPUB.
+<br> 2. Extract the HTML content from each document item.
+<br> 3. Convert the HTML (with formatting preserved) into DOCX format.
+<br> 4. Save the output DOCX file in the results folder using the same base filename as the original EPUB.
 
 ### Monitor the Output:
 
