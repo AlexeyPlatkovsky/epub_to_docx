@@ -1,8 +1,9 @@
 import ebooklib
+import os
+
+from bs4 import BeautifulSoup
 from docx import Document
 from ebooklib import epub
-from bs4 import BeautifulSoup
-import os
 from htmldocx import HtmlToDocx
 
 
