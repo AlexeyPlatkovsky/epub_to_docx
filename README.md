@@ -1,3 +1,8 @@
+# File Converter
+
+This project is a Python script that converts EPUB files into DOCX files; and image files ('.webp', '.jpeg', '.jpg', '.bmp', '.svg') to PNG. It processes all files in a specified input folder (input_files for epub and input_image_files for images), converts each file to DOCX / PNG while preserving HTML formatting (such as bold and italic) using the **htmldocx** library, and saves the results in a designated output folder.
+
+
 # EPUB to DOCX Converter
 
 This project is a Python script that converts EPUB files into DOCX files. It processes all EPUB files in a specified input folder, converts each file to DOCX while preserving HTML formatting (such as bold and italic) using the **htmldocx** library, and saves the results in a designated output folder.
